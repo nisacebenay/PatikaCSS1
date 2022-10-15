@@ -1,0 +1,76 @@
+h1 {
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  font-size: large;
+  text-align: center;
+
+}
+
+h3 {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  text-align: center;
+  font-size: large;
+  background-color: #eca1a6;
+}
+
+ ol,li {
+  color: #bc5a45;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  text-align: center;
+  list-style-position: inside;
+ }
+
+img {
+  align-items: center;
+}
+
+ .topnav {
+    overflow: hidden;
+    background-color: plum;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: hotpink;
+    color: white;
+  }
+  
+  .topnav a.active {
+    background-color: hotpink;
+    color: white;
+  }
+  
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
+  
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
